@@ -1,3 +1,6 @@
+Required changes to this file
+
+
 # Databricks Bootcamp 2026
 
 Welcome to the **Databricks Bootcamp** by **Data With Baraa**.
